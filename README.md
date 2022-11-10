@@ -12,8 +12,9 @@
 ## Chủ đề
 - Nội dung:
 - Link crawl: 
+
 ## Các công cụ sử dụng
-- Crawl dữ liệu: Scrapy
+- Crawl dữ liệu: 
 - Thư viện học máy: 
-- Quản lý source code: Github
-- Quản lý lịch trình: Notion
+- Quản lý source code: 
+- Quản lý lịch trình: 

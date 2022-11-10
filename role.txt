@@ -1,9 +1,14 @@
 GitHub:
 + Mỗi thành viên sau khi làm xong một chức năng/công việc cụ thể, cần commit lại.
-+ Sau khi hoàn thành công việc, mỗi cá nhân sẽ tạo nhánh với nội dung Wn-m (trong đó n là số STT công việc trên Notion,m là tên của thành viên).
-+ Sau đó, nhóm sẽ cùng nhau thảo luận và merge về master.
++ Sau khi hoàn thành công việc, mỗi cá nhân sẽ tạo nhánh với nội dung task-n-m (trong đó n là số STT công việc trên Notion,m là tên của thành viên).
++ Sau đó, nhóm sẽ cùng nhau thảo luận và merge về main.
+
+Notion:
++ Các công việc theo kế hoạch sẽ được để ở phần Backlog
++ Từng thành viên có nhiệm vụ giải quyết các task được để ở phần "To Do", khi tiến hành thì kéo thả đến "In Progress" và sau khi hoàn tất sẽ thả vào "Done"
+
 
 File Notebooks:
-+ Mỗi thành viên cần tự cell tạo code và cell markdown để giải thích khi làm.
++ Mỗi thành viên cần tự tạo cell code và cell markdown để giải thích khi làm.
 
 Còn gì thì ae cùng thảo luận và bổ sung thêm...
