@@ -10,11 +10,11 @@
 | 4        | Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      |
 
 ## Chủ đề
-- Nội dung:
-- Link crawl: 
+- Nội dung: Dự báo thị trường lao động
+- Link crawl: https://www.vietnamworks.com/tim-viec-lam/tat-ca-viec-lam?filtered=true
 
 ## Các công cụ sử dụng
-- Crawl dữ liệu: 
-- Thư viện học máy: 
-- Quản lý source code: 
-- Quản lý lịch trình: 
+- Crawl dữ liệu: Scrapy
+- Thư viện học máy: scikit learn
+- Quản lý source code: GitHub
+- Quản lý lịch trình: Notion
