@@ -11,7 +11,7 @@
 
 ## Chủ đề
 - Nội dung: Dự đoán xu hướng nghề nghiệp
-- Link crawl: https://www.vietnamworks.com/tim-viec-lam/tat-ca-viec-lam
+- Nguồn dữ liệu: https://www.vietnamworks.com
 
 ## Các công cụ sử dụng
 - Crawl dữ liệu: Scrapy
