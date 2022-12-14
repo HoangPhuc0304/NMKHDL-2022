@@ -10,11 +10,11 @@
 | 4        | Nguyễn Hoàng Thịnh         |  20120587        | 20120587@student.hcmus.edu.vn      |
 
 ## Chủ đề
-- Nội dung: Dự đoán xu hướng nghề nghiệp
+- Nội dung: Phân tích thị trường lao động Việt Nam
 - Nguồn dữ liệu: https://www.vietnamworks.com
 
 ## Các công cụ sử dụng
-- Crawl dữ liệu: Scrapy
+- Crawl dữ liệu: HTTP Requests
 - Thư viện học máy: Scikit Learn
 - Quản lý source code: GitHub
-- Quản lý lịch trình: Notion
+- Quản lý lịch biểu: Notion
